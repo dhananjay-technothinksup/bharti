@@ -1,0 +1,192 @@
+body{
+  padding: 0px!important;
+  margin: 0px!important;
+}
+
+.row{
+  padding: 0px!important;
+  margin: 0px!important;
+}
+
+
+.card-sec{
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+
+.card{
+  text-align: center;
+}
+
+.top-nav{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #2b0318;
+}
+
+.bg-choclet{
+  background-color: #fecc00!important;
+}
+
+.nav-link{
+  color: #2b0318;
+  font-size: 18px;
+  font-family: 'Titillium Web', sans-serif;
+}
+.top-name{
+  font-size: 1.8rem;
+  color: #fecc00;
+}
+
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
+.cursive{
+  font-family: 'Rye', cursive;
+}
+
+
+
+.fixed {
+    position: fixed;
+    top:0;
+    width: 100%;
+    z-index: 500;
+    background-color: #fecc00!important;
+  }
+
+  .dropdown-item{
+    color: #2b0318;
+  }
+
+.top-nav img{
+    width: 250px;
+    height: auto;
+    padding: 25px;
+  }
+
+ #bl-1{
+    border-left: 1px solid #fecc00;
+  }
+
+.top-h4{
+  color: #fecc00;
+}
+
+#yello h4{
+  padding: 15px 25px;
+  font-size: 18px;
+  background-color:  #fecc00;
+  text-align: center;
+
+}
+
+#yello p{
+padding-left: 15px;
+}
+
+.marque{
+  padding-top: 30px;
+  padding-bottom:30px;
+  background-color: #0ba7e1;
+
+}
+
+
+.text-blue{
+  color: #0ba7e1;
+}
+.text-animate{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.card-sec{
+  padding-top: 30px;
+padding-bottom: 60px;
+background-color: #351b28;
+}
+
+.card-sec h2{
+  padding-top: 15px;
+  padding-bottom: 8px;
+}
+
+footer{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #450527;
+}
+
+footer h4{
+  color: #fff;
+  font-size: 1.4rem;
+
+}
+
+footer h4:after{
+  content: "";
+      position: absolute;
+      top: 32px;
+      left: 12px;
+      background: #fecc00;
+      height: 3px;
+      width: 30px;
+
+}
+
+ footer ul{
+   list-style: none;
+   padding-left: 10px;
+   padding-top: 20px;
+ }
+
+
+
+ footer li a{
+   color: #fff;
+ }
+
+ footer li a:hover{
+   color: #fff;
+ }
+
+ .nav-img{
+   width: 100%;
+   height: 40px;
+ }
+
+ .card-img{
+   background-color: #fecc00;
+   border-bottom-right-radius: 45px;
+ }
+
+ .text-foot{
+   padding: 20px 10px;
+ }
+.head-img img{
+  border-bottom-right-radius: 45px;
+}
+ .text-foot h5{
+
+font-size: 16px;
+ }
+
+.section-vision{
+  padding-top: 50px;
+  padding-bottom: 30px;
+   background-color: #f2f5f7;
+ }
+
+ .bl-grey{
+   border-left: 1px solid grey;
+   padding-left: 35px!important;
+
+ }
+
+ .placement{
+   padding-top: 30px;
+   padding-bottom: 30px;
+ }
